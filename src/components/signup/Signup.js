@@ -18,6 +18,7 @@ export default function Signup() {
                     E-mail
                     <input type=""/>
                 </label>
+                <button type="submit">Submit</button>
             </form>
         </div>
     )
